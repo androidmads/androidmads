@@ -8,3 +8,5 @@ I am Mushtaq M A working as Project Leader @ SIERRA ODC. I am an Experienced Ful
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about Mobile Development
 - 📫 How to reach me: [My Blog](http://www.androidmads.info/), [Facebook](https://www.facebook.com/androidmads), [Twitter](https://twitter.com/androidmads)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=androidmads&show_icons=true" alt="androidmads" />
