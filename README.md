@@ -2,7 +2,7 @@
 
 I am Mushtaq M A working as Project Leader. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in Android, iOS, Xamarin, UWP, Flutter, ASP.Net and RESTfull API’s. Strong engineering professional with a Bachelor of ECE.
 
-- 🔭 I’m currently working as Project Leader @ SIERRA ODC
+- 🔭 I’m currently working as Project Leader @ a super company in Coimbatore
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
