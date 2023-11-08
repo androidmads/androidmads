@@ -13,3 +13,5 @@ I am Mushtaq M A working as Project Leader. I am an Experienced Fullstack Develo
 - 📫 How to reach me: [My Blog](http://www.androidmads.info/), [Facebook](https://www.facebook.com/androidmads), [Twitter](https://twitter.com/androidmads)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=androidmads&show_icons=true" alt="androidmads" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=androidmads)](https://github.com/androidmads/QRGenerator)
