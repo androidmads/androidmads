@@ -15,3 +15,5 @@ I am Mushtaq M A working as Project Leader. I am an Experienced Fullstack Develo
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=androidmads&show_icons=true" alt="androidmads" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=androidmads)](https://github.com/androidmads/QRGenerator)
+
+<a href="https://www.buymeacoffee.com/androidmads"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=androidmads&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
